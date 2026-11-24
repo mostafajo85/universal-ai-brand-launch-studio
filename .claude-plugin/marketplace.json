@@ -1,0 +1,14 @@
+{
+  "name": "mostafajo-brand-studio",
+  "owner": {
+    "name": "Mostafa JoOo"
+  },
+  "plugins": [
+    {
+      "name": "brand-launch",
+      "source": "./plugins/brand-launch",
+      "description": "Product advertising campaign production with Higgsfield MCP",
+      "version": "1.0.0"
+    }
+  ]
+}
