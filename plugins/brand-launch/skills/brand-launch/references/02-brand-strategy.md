@@ -16,6 +16,10 @@ Inspect the actual client's upload and reference mechanisms. An attachment visib
 
 Keep character identity, wardrobe, environment, spatial geography, lighting, product details and audio continuity when applicable. Generate additional angles or reference elements only with approval; check model support rather than assuming a named element works everywhere.
 
+### Reusable reference Elements
+
+Discover supported reference-library read operations and inspect only user-authorized relevant Elements. Reuse verified product, character and environment references or confirmed media IDs where suitable, preserving the Brand Identity Lock and speaker/wardrobe continuity. Create persistent Elements only with explicit user authorization and confirmed source media. Distinguish ordinary references, generation IDs, project assets and library Element IDs. Verify the chosen model accepts the exact reference role and handle/ID; bind according to its live schema. If named Elements are unsupported, use confirmed image/video/audio references. Never invent handles or overwrite accepted references. Moving, deleting or sharing library assets requires separate authorization. Check uncertain writes before retrying.
+
 # PHASE 00 — Product analysis and creative strategy
 
 Analyze the input and live capabilities without generation or write operations. Identify product category, intended use, potential audience, audience motivations, positioning, verified differentiators and limitations.

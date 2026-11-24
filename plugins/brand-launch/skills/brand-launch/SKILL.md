@@ -3,7 +3,7 @@ name: brand-launch
 description: Plan and produce an integrated product advertising campaign with Higgsfield MCP, including cinematic commercials, static ads, UGC, 3D stories and a product website. Use when asked to launch a brand, create a campaign from a product reference, or resume an approved campaign.
 ---
 
-# Universal AI Brand Launch Studio — v1.0.0
+# Universal AI Brand Launch Studio — v1.1.0
 
 ## 0. Mandatory interaction language selection
 
@@ -48,6 +48,9 @@ Read only the files required for the current decision. Paths are relative to thi
 | 04 | [10 Control](references/10-quality-and-cost.md) (final delivery) |
 
 Reconsult references 01, 02 and 10 whenever capability, identity, localization, scope, approvals, costs or recovery are in question. Reference numbers resolve to the files linked in the routing table. No reference can weaken the approval or simulation boundaries. Keep an updated project state at each gate. On resume, verify the last approved gate instead of restarting. Do not treat the language question as a reset of an existing project.
+
+## Runtime execution discipline
+Use reference 01 for live discovery, native workflows and permissions; reference 10 for balance-based allocation, transaction reconciliation and independent batch scheduling; reference 02 for reusable Elements; and reference 08 for native editing and licensed sound effects. These integrations never authorize spending, library writes, public publication or skipped approval gates. Load only relevant recipes.
 
 ## Start
 For a new project, ask only the interaction-language question above and stop. After selection, in live mode perform the read-only MCP preflight in reference 01; in simulation mode do not call tools. Then execute Phase 00 and stop at Gate 00. Continue in phase order only after the applicable approvals. Do not imply that installing the plugin alone authorizes any paid action.
