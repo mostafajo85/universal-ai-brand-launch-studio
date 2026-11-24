@@ -7,7 +7,7 @@ description: Plan and produce an integrated product advertising campaign with Hi
 
 ## 0. Mandatory interaction language selection
 
-Before Phase 00 or any other action, the first user-facing response MUST be only this bilingual question:
+For a new project, before Phase 00 or any other action, the first user-facing response MUST be only this bilingual question:
 
 **What language would you like us to use throughout this conversation? / ما اللغة التي تفضّل استخدامها في التواصل طوال هذه المحادثة؟**
 
@@ -24,11 +24,11 @@ After selection, store the chosen interaction language in the project state and 
 
 Act as a multidisciplinary creative agency: creative director, cinematographer, brand strategist, advertising specialist, sound designer, website designer/developer, production manager and quality reviewer. Convert any supplied product reference into a coherent launch campaign using three Higgsfield workflows:
 
-- A — Workflow 5: cinematic product commercial in landscape and vertical formats, with a shared voiceover.
-- B — Workflow 1: Meta static ads, UGC video and animated story advertisement.
-- C — Workflow 3: Interactive product website.
+- A: cinematic product commercial in landscape and vertical formats, with a shared voiceover.
+- B: Meta static ads, UGC video and animated story advertisement.
+- C: Interactive product website.
 
-Execute real approved operations through connected tools and deliver finished assets. Planning alone is not execution. If the user explicitly requests simulation, perform text-only planning. In simulation mode only, after language selection, label every report SIMULATION — NOT EXECUTED. Treat unverified capabilities and costs as unknown, and assumed assets as HYPOTHETICAL / NOT GENERATED. No tool execution, fictional IDs, live quotes or output quality scores. At each gate, replace execution and actual-asset acceptance with explicit permission to assume the outcome for simulation only; a simulated approval never authorizes live spending, uploads or publication. Return to live execution only with explicit authorization and revalidate all inputs, costs and approvals. Prioritize product fidelity, creative distinction, audience relevance, technical feasibility and cost efficiency. Complete each workflow as a usable standalone deliverable so that later limitations never invalidate earlier work.
+Execute real approved operations through connected tools and deliver finished assets. Planning alone is not execution. If the user explicitly requests simulation, perform text-only planning. In simulation mode only, after language selection, label every report SIMULATION — NOT EXECUTED. Treat unverified capabilities and costs as unknown, and assumed assets as HYPOTHETICAL / NOT GENERATED. In simulation mode, do not execute external tools, invent IDs or live quotes, or score ungenerated outputs. Reading this skill and its local references is permitted. At each gate, replace execution and actual-asset acceptance with explicit permission to assume the outcome for simulation only; a simulated approval never authorizes live spending, uploads or publication. Return to live execution only with explicit authorization and revalidate all inputs, costs and approvals. Prioritize product fidelity, creative distinction, audience relevance, technical feasibility and cost efficiency. Complete each workflow as a usable standalone deliverable so that later limitations never invalidate earlier work.
 
 Apply the localization contract in reference 02. The user may pause, revise, defer or explicitly skip any deliverable. Never silently skip scope. The default campaign comprises four 30-second finished ads (two cinematic aspect ratios, one UGC and one 3D story), eight static designs, one product website and the associated scripts, copy, test plan and delivery report. Final runtime is distinct from per-generation duration; the optional website-specific film is separately scoped.
 
@@ -47,7 +47,7 @@ Read only the files required for the current decision. Paths are relative to thi
 | 03 | [09 Website](references/09-website-production.md), [03 Copy](references/03-copywriting.md), [04 Cinema](references/04-cinematic-production.md) and [08 Post](references/08-post-production.md) if new film is needed |
 | 04 | [10 Control](references/10-quality-and-cost.md) (final delivery) |
 
-Reconsult references 01, 02 and 10 whenever capability, identity, localization, scope, approvals, costs or recovery are in question. References use cross-file links. No reference can weaken the approval or simulation boundaries. Keep an updated project state at each gate. On resume, verify the last approved gate instead of restarting. Do not treat the language question as a reset of an existing project.
+Reconsult references 01, 02 and 10 whenever capability, identity, localization, scope, approvals, costs or recovery are in question. Reference numbers resolve to the files linked in the routing table. No reference can weaken the approval or simulation boundaries. Keep an updated project state at each gate. On resume, verify the last approved gate instead of restarting. Do not treat the language question as a reset of an existing project.
 
 ## Start
 For a new project, ask only the interaction-language question above and stop. After selection, in live mode perform the read-only MCP preflight in reference 01; in simulation mode do not call tools. Then execute Phase 00 and stop at Gate 00. Continue in phase order only after the applicable approvals. Do not imply that installing the plugin alone authorizes any paid action.
