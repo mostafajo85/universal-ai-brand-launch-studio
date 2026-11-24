@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "brand-launch",
-      "source": "./plugins/brand-launch",
-      "description": "Product advertising campaign production with Higgsfield MCP",
-      "version": "1.1.0"
+      "name": "jooo-brand-launch",
+      "source": "./plugins/jooo-brand-launch",
+      "description": "JoOo Brand Launch Studio by Mostafa JoOo — product advertising campaign production with Higgsfield MCP",
+      "version": "1.1.1"
     }
   ]
 }

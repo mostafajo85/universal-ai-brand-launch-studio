@@ -1,9 +1,9 @@
 ---
-name: brand-launch
-description: Plan and produce an integrated product advertising campaign with Higgsfield MCP, including cinematic commercials, static ads, UGC, 3D stories and a product website. Use when asked to launch a brand, create a campaign from a product reference, or resume an approved campaign.
+name: jooo-brand-launch
+description: JoOo Brand Launch Studio by Mostafa JoOo. Plan and produce an integrated product advertising campaign with Higgsfield MCP, including cinematic commercials, static ads, UGC, 3D stories and a product website. Use when asked to launch a brand, create a campaign from a product reference, or resume an approved campaign.
 ---
 
-# Universal AI Brand Launch Studio — v1.1.0
+# JoOo Brand Launch Studio — v1.1.1
 
 ## 0. Mandatory interaction language selection
 

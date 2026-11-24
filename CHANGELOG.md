@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.1 — Branding
+
+- Renamed the plugin and skill to `jooo-brand-launch` (JoOo Brand Launch Studio by Mostafa JoOo).
+- All ten reference files and the MCP configuration are unchanged. No production behavior changes.
+
 ## 1.1.0 — Runtime integration
 
 - Native workflow discovery and permission handling.
