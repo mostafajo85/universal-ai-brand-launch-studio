@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.1.0 — Runtime integration
+
+- Native workflow discovery and permission handling.
+- Balance-based allocation, spending ceiling, reserve and credit transaction reconciliation.
+- Approved independent batch scheduling with partial-failure recovery.
+- Reusable Elements, native Editing Room and sound effects library.
+- Preserved all phases, deliverables, language/audio routing, approval gates and website scope.
+- Live Claude execution remains untested.
+
 ## 1.0.0 — Initial implementation
 
 - Modularized the V3.0 production workflow into one skill and ten references.
